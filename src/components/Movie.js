@@ -3,11 +3,11 @@ import { Link } from 'react-router-dom';
 
 function Movie({ id, title, coverImg, rating, runtime, genres, summary }) {
   return <div className='movies__item'>
-    <Link to={`/movie/${id}`}>
+    <Link to={`./movie/${id}`}>
       <img src={coverImg} alt={title} />
     </Link>
     <h2>
-      <Link to={`/movie/${id}`}>{title.length > 40 ? `${title.slice(0, 40)}...` : title}</Link>
+      <Link to={`./movie/${id}`}>{title.length > 40 ? `${title.slice(0, 40)}...` : title}</Link>
     </h2>
     <div className='movies__info'>
       <span>{rating}</span>
