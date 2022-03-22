@@ -39,10 +39,10 @@
 <br>
 
 ## 최종 결과물
-- Index page
+Index page
 <img width="640" alt="최종 결과물-home" src="https://user-images.githubusercontent.com/93115007/159482921-e54faf9b-5cf1-47df-b6a5-923e31e15dbb.png">
 
-- Detail page
+Detail page
 <img width="640" alt="최종 결과물-detail" src="https://user-images.githubusercontent.com/93115007/159484166-3f2f2a71-c850-4c37-8a64-7aeb58190489.png">
 
 <br>
