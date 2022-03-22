@@ -21,8 +21,3 @@ function App() {
 }
 
 export default App;
-
-// 참고 링크
-
-// https://github.com/hanim3/practice-project/blob/main/movie-app/src/routes/Home.js
-// https://hanim3.github.io/movie
