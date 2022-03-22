@@ -4,7 +4,7 @@ import PropTypes from 'prop-types'
 function MovieDetail({ title, bgImg, coverImg, rating, runtime, genres, summary }) {
   return <div className='movie'>
     <div className='movie__home__Btn'>
-      <Link to={`/`}>Home</Link>
+      <Link to={process.env.PUBLIC_URL + "/"}>Home</Link>
     </div>
     <div className='bgImg'>
       <img src={bgImg} alt={title} />
