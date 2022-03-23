@@ -44,16 +44,16 @@
 
 ## 최종 결과물
 1번 Practice <br />
-<img width="640" alt="최종 결과물-home" src="https://user-images.githubusercontent.com/93115007/159666648-9feb04d8-447d-4ad5-8dd9-1eca396616a1.png">
+<img width="640" alt="최종 결과물-Practice" src="https://user-images.githubusercontent.com/93115007/159666648-9feb04d8-447d-4ad5-8dd9-1eca396616a1.png">
 
-2번 Practice <br />
-<img width="640" alt="최종 결과물-home" src="https://user-images.githubusercontent.com/93115007/159482921-e54faf9b-5cf1-47df-b6a5-923e31e15dbb.png">
+2번 To do list <br />
+<img width="640" alt="최종 결과물-todolist" src="https://user-images.githubusercontent.com/93115007/159731538-c4aed5b5-a4aa-41c4-aa8a-d6c53baac363.png">
 
 3번 Movie - Index page<br />
-<img width="640" alt="최종 결과물-home" src="https://user-images.githubusercontent.com/93115007/159482921-e54faf9b-5cf1-47df-b6a5-923e31e15dbb.png">
+<img width="640" alt="최종 결과물-movie-index" src="https://user-images.githubusercontent.com/93115007/159482921-e54faf9b-5cf1-47df-b6a5-923e31e15dbb.png">
 
 3번 Movie - Detail page<br />
-<img width="640" alt="최종 결과물-detail" src="https://user-images.githubusercontent.com/93115007/159484166-3f2f2a71-c850-4c37-8a64-7aeb58190489.png">
+<img width="640" alt="최종 결과물-movie-detail" src="https://user-images.githubusercontent.com/93115007/159484166-3f2f2a71-c850-4c37-8a64-7aeb58190489.png">
 
 <br>
 

@@ -6,11 +6,14 @@
 .input-text {
   all: unset;
   width: 200px;
+  margin-bottom: 10px;
 }
 
-.input-button {
+.input-button{
   all: unset;
+  float: right;
   cursor: pointer;
+  font-size: 14px;
   border: 1px solid lavenderblush;
   padding: 5px 15px;
   transition: .2s ease-in-out;
@@ -24,12 +27,16 @@
 ul{
   display: block;
   margin-top: 0px;
+  padding: 0;
+  list-style: none;
 }
 
 ul li {
   color: aliceblue;
+  margin-bottom: 20px;
 }
 
 ul li button {
+  all: unset;
   float: right;
 }
