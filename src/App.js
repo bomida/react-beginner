@@ -1,8 +1,8 @@
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import { Reset } from 'styled-reset'
+import './App.css'
 import Detail from './routes/Detail';
 import Home from './routes/Home'
-import './App.css'
-import { Reset } from 'styled-reset'
 
 function App() {
   return (
