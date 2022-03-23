@@ -1,0 +1,63 @@
+body, html {
+  color: #fff;
+  background-color: #1A1A22;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  padding: 60px;
+}
+
+.movies {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(15%, auto));
+	gap: 30px;
+}
+
+.movies__item img {
+  width: 100%;
+  transition: .2s ease-in;
+}
+
+.movies__item img:hover {
+  transform: scale(1.05);
+}
+
+.movies__item h2 {
+  margin: 20px 0 15px;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 1.4;
+  transition: .2s ease-in;
+}
+
+.movies__item h2:hover {
+  color: #FF6258;
+}
+
+.movies__info{
+  margin-top: 12px;
+  color: #514f5c;
+}
+
+.bar {
+  display: inline-block;
+  width: 1px;
+  height: 13px;
+  margin: 0 15px;
+  font-size: 14px;
+  background-color: #41404a;
+}
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+ul li{
+  height: 100%;
+  margin: 15px 10px 0 0;
+  font-size: 14px;
+  color: #514f5c;
+}

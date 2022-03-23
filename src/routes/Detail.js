@@ -1,6 +1,7 @@
 import { useCallback, useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import MovieDetail from '../components/MovieDetail'
+import Loader from '../components/Loader'
 
 function Detail() {
   const { id } = useParams();
@@ -24,9 +25,7 @@ function Detail() {
 
   return <div> {
     loading ?
-      <div className='loader'>
-        <span>Loading...</span>
-      </div> :
+      <Loader /> :
       <MovieDetail
         title={movie.title_long}
         bgImg={movie.background_image_original}
