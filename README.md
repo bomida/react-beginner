@@ -1,9 +1,13 @@
-# Movie Web service - beginner
+# ReactJS-for-beginner
 
 <br>
 
 ## 소개
-추천 영화 리스트를 보여주고, 포스터 또는 제목을 클릭 시 디테일 페이지로 넘어가<br />해당 영화에 대한 세부 정보를 보여줍니다.
+1. 리액트 기초를 습득하기 위해 간단한 실습을 했습니다.<br />
+   (Counter, Converter (Minutes&Hours / Km&Miles), Change Buttons, Use useEffect) 
+2. 배운 기초 문법들을 이용해 간단한 To do list를 만들어보았습니다.
+3. 추천 영화 리스트를 보여주고, 포스터 또는 제목을 클릭 시 디테일 페이지로 넘어가<br />
+해당 영화에 대한 세부 정보를 보여줍니다.
 
 <br>
 
@@ -39,10 +43,16 @@
 <br>
 
 ## 최종 결과물
-Index page
+1번 Practice <br />
+<img width="640" alt="최종 결과물-home" src="https://user-images.githubusercontent.com/93115007/159666648-9feb04d8-447d-4ad5-8dd9-1eca396616a1.png">
+
+2번 Practice <br />
 <img width="640" alt="최종 결과물-home" src="https://user-images.githubusercontent.com/93115007/159482921-e54faf9b-5cf1-47df-b6a5-923e31e15dbb.png">
 
-Detail page
+3번 Movie - Index page<br />
+<img width="640" alt="최종 결과물-home" src="https://user-images.githubusercontent.com/93115007/159482921-e54faf9b-5cf1-47df-b6a5-923e31e15dbb.png">
+
+3번 Movie - Detail page<br />
 <img width="640" alt="최종 결과물-detail" src="https://user-images.githubusercontent.com/93115007/159484166-3f2f2a71-c850-4c37-8a64-7aeb58190489.png">
 
 <br>

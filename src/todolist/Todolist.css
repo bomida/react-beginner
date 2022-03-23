@@ -1,0 +1,35 @@
+.todo-container {
+  width: 400px;
+  margin: 40px auto;
+}
+
+.input-text {
+  all: unset;
+  width: 200px;
+}
+
+.input-button {
+  all: unset;
+  cursor: pointer;
+  border: 1px solid lavenderblush;
+  padding: 5px 15px;
+  transition: .2s ease-in-out;
+}
+
+.input-button:hover {
+  background-color: lavenderblush;
+  color: #41404a;
+}
+
+ul{
+  display: block;
+  margin-top: 0px;
+}
+
+ul li {
+  color: aliceblue;
+}
+
+ul li button {
+  float: right;
+}

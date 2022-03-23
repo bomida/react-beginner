@@ -6,9 +6,9 @@ import ToDoList from './todolist/Todolist';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    {/* <App /> */}
     {/* <Practice /> */}
-    {/* <ToDoList /> */}
+    <ToDoList />
   </React.StrictMode>,
   document.getElementById('root')
 );

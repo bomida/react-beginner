@@ -25,7 +25,7 @@ function UseEffect() {
   // console.log('Search for ', keyword)
 
   return <div>
-    <h1>useEffect</h1>
+    <h1>Use useEffect</h1>
     <h3>{counter}</h3>
     <button style={{ fontSize: "20px" }} onClick={onClick}>Click 😎</button>
     <h3>Search Practice</h3>

@@ -30,7 +30,7 @@ function Buttons() {
 
   return (
     <div>
-      <h1>Buttons</h1>
+      <h1>Change Buttons</h1>
       <Btn text="Confirm" fontSize={20} />
       <Btn text={value} onClick={changeValue} />
     </div>
