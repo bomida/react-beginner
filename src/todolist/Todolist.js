@@ -39,9 +39,9 @@ function ToDoList() {
         />
       </form>
       <hr />
-      <ul>
+      <ul className='todolist'>
         {toDos.map((item, index) => (
-          <li className='todo-list' key={index}>
+          <li className='todolist__item' key={index}>
             <span>{item}</span>
             <button onClick={onRemove}>❌</button>
           </li>
